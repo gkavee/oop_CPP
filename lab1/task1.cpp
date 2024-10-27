@@ -18,6 +18,7 @@ int main() {
     }
 
     std::cout << std::endl;
+    
     std::cout << "Расстояния от первого элемента в байтах:" << std::endl;
 
     for (int i = 0; i < 10; ++i) {
